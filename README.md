@@ -14,6 +14,8 @@ I am driven by a desire to apply my expertise in Machine Learning, Artificial In
 
 - Currently learning Pytorch
 
+- A repository of my most relevant academic coursework is available [here](https://github.com/santiagomora2/project-portfolio)
+
 # 😄 Personal Interests
 
 I am a drum and bass player, former football player, bonsai enthusiast, and I really enjoy conservationism and camping.
