@@ -1,4 +1,4 @@
-#👋 Hi, I’m Santiago Mora
+# 👋 Hi, I’m Santiago Mora
 
 5th semester student, B.S. in Data Science and Mathematics Engineering @ Tecnológico de Monterrey, Campus Guadalajara.
 
