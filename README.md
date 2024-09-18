@@ -19,7 +19,7 @@ I am driven by a desire to apply my expertise in Machine Learning, Artificial In
 # Experience 💻
 
 - First place winner of the entrepreneurship prize in Guadalahacks’ Hackathon with the project: “Parkinsons detection through voice using AI” [(Devpost)](https://devpost.com/software/deteccion-de-parkinson-a-traves-de-la-voz-con-ia). Guadalajara, México.[2024]
-- Participant in HackMTY's 2024 Hackathon with the project: "Computer Vision and Generative AI for Retail Stores" [(Devpost)](https://devpost.com/software/full-eye)
+- Participant in HackMTY's 2024 Hackathon with the project: "Computer Vision and Generative AI for Retail Stores" [(Devpost)](https://devpost.com/software/full-eye). Monterrey, México. [2024]
 - Data Science and AI specialist at Jatenx. [2024]
 - Participant in the International Collegiate Programming Contest. Guadalajara, México [2024].
 - Participant in Intel’s Acelerando México con Inteligencia Artificial competition. Guadalajara, México [2024].
