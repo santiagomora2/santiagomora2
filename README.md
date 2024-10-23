@@ -10,7 +10,7 @@ I am driven by a desire to apply my expertise in Machine Learning, Artificial In
 
 - Data Science, Machine Learning, Artificial Intelligence, Statistical Analysis.
 
-- Experienced in R, Python, Pandas, Matplotlib, Seaborn, SciKit-Learn, Numpy, SciPy.
+- Experienced in R, Python, Pandas, Matplotlib, Seaborn, SciKit-Learn, Numpy, SciPy, Streamlit.
 
 - Currently learning Pytorch
 
