@@ -12,7 +12,7 @@ I am driven by a desire to apply my expertise in Machine Learning, Artificial In
 
 - Experienced in R, Python, Pandas, Matplotlib, Seaborn, SciKit-Learn, Numpy, SciPy, Streamlit.
 
-- Currently learning Pytorch
+- Currently learning Pytorch and Tensorflow
 
 - A repository of my most relevant academic coursework is available [here](https://github.com/santiagomora2/project-portfolio)
 
