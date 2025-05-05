@@ -10,9 +10,7 @@ I am driven by a desire to apply my expertise in Machine Learning, Artificial In
 
 - Data Science, Machine Learning, Artificial Intelligence, Statistical Analysis.
 
-- Experienced in R, Python, Pandas, Matplotlib, Tensorflow, Keras, SciKit-Learn, Seaborn, Numpy, SciPy, Streamlit.
-
-- Currently learning Pytorch.
+- Experienced in R, Python, Pandas, Matplotlib, Pytorch, Tensorflow, Keras, SciKit-Learn, Seaborn, Numpy, SciPy, Streamlit.
 
 - A repository of my most relevant academic coursework is available [here](https://github.com/santiagomora2/project-portfolio)
 
