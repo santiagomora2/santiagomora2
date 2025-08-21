@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Santiago Mora
 
 Data Scientist and AI specialist @ JateNX
+
 B.S. in Data Science and Mathematics Engineering @ Tecnológico de Monterrey, Campus Guadalajara.
 
 # 👀 What drives me
