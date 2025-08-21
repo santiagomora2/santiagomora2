@@ -12,13 +12,11 @@ I am driven by a desire to apply my expertise in Machine Learning, Artificial In
 
 - Data Science, Machine Learning, Artificial Intelligence, Statistical Analysis.
 
-### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,r&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,fastapi&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,anaconda,github,git&theme=light)](https://skillicons.dev)
-
-
-- Experienced in R, Python, Pandas, Matplotlib, Pytorch, Tensorflow, Keras, SciKit-Learn, Seaborn, Numpy, SciPy, Streamlit.
 
 - A repository of my most relevant academic coursework is available [here](https://github.com/santiagomora2/project-portfolio)
 
