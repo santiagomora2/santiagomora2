@@ -2,6 +2,7 @@
 Data Scientist and AI specialist @ JateNX
 
 B.S. in Data Science and Mathematics Engineering @ Tecnológico de Monterrey, Campus Guadalajara.
+
 ---
   
 # Areas of expertise
@@ -11,11 +12,14 @@ B.S. in Data Science and Mathematics Engineering @ Tecnológico de Monterrey, Ca
 [![My Skills](https://skillicons.dev/icons?i=py,r,pytorch,sklearn,tensorflow,fastapi,vscode,anaconda,github,git&theme=light)](https://skillicons.dev)
 
 - A repository of my most relevant academic coursework is available [here](https://github.com/santiagomora2/project-portfolio)
+  
 ---
+
 # Experience 💻
 
 - Data Science and AI specialist at Jatenx. [2024-Present]
-- Research intern at Université du Québec à Montréal. [2025] 
+- Research intern at Université du Québec à Montréal. [2025]
+
 ---
 # Competitions and Awards
 
@@ -24,7 +28,9 @@ B.S. in Data Science and Mathematics Engineering @ Tecnológico de Monterrey, Ca
 - Participant in HackMTY's 2024 Hackathon with the project: "Computer Vision and Generative AI for Retail Stores" [(Devpost)](https://devpost.com/software/full-eye). Monterrey, México. [2024]
 - Participant in the International Collegiate Programming Contest. Guadalajara, México [2024].
 - Participant in Intel’s Acelerando México con Inteligencia Artificial competition. Guadalajara, México [2024].
+  
 ---
+
 # Personal Interests
 
 I am a drum and bass player, former football player, bonsai enthusiast, and I really enjoy conservationism and camping.
