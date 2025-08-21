@@ -3,31 +3,8 @@
 Data Scientist and AI specialist @ JateNX
 
 B.S. in Data Science and Mathematics Engineering @ Tecnológico de Monterrey, Campus Guadalajara.
-
-```
-                _                       
-                \`*-.                   
-                 )  _`-.                
-                .  : `. .               
-                : _   '  \              
-                ; *` _.   `*-._         
-                `-.-'          `-.      
-                  ;       `       `.    
-                  :.       .        \   
-                  . \  .   :   .-'   .  
-                  '  `+.;  ;  '      :  
-                  :  '  |    ;       ;-.
-                  ; '   : :`-:     _.`* ;
-         [bug] .*' /  .*' ; .*`- +'  `*'
-               `*-*   `*-*  `*-*'       
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
-
-# 👀 What drives me
-
-I am driven by a desire to apply my expertise in Machine Learning, Artificial Intelligence, and data science to projects that not only push the boundaries of innovation but also contribute to a more sustainable and healthier future for all.
   
-# 🌱 Areas of expertise
+# Areas of expertise
 
 - Data Science, Machine Learning, Artificial Intelligence, Statistical Analysis.
 
@@ -49,7 +26,7 @@ I am driven by a desire to apply my expertise in Machine Learning, Artificial In
 - Participant in Intel’s Acelerando México con Inteligencia Artificial competition. Guadalajara, México [2024].
 
 
-# 😄 Personal Interests
+# Personal Interests
 
 I am a drum and bass player, former football player, bonsai enthusiast, and I really enjoy conservationism and camping.
 
