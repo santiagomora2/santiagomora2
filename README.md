@@ -34,6 +34,7 @@ B.S. in Data Science and Mathematics Engineering @ Tecnológico de Monterrey, Ca
 # Personal Interests
 
 I am a drum and bass player, former football player, bonsai enthusiast, and I really enjoy conservationism and camping.
+
 ---
 # 📫 Get in touch!
 
