@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Santiago Mora
 
-6th semester student, B.S. in Data Science and Mathematics Engineering @ Tecnológico de Monterrey, Campus Guadalajara.
+Data Scientist and AI specialist @ JateNX
+B.S. in Data Science and Mathematics Engineering @ Tecnológico de Monterrey, Campus Guadalajara.
 
 # 👀 What drives me
 
@@ -17,6 +18,7 @@ I am driven by a desire to apply my expertise in Machine Learning, Artificial In
 # Experience 💻
 
 - Data Science and AI specialist at Jatenx. [2024-Present]
+- Research intern at Université du Québec à Montréal. [2025] 
 
 # Competitions and Awards
 
