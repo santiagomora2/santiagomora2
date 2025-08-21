@@ -37,9 +37,8 @@ I am a drum and bass player, former football player, bonsai enthusiast, and I re
 
 # 📫 Get in touch!
 
-Academic e-mail: a01369517@tec.mx
-
-Personal e-mail: sant.mora.11@gmail.mx
+[![My Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/santiago-mora-28a1732b4)
+[![My Linkedin](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:sant.mora.11@gmail.com)
 
 
 
