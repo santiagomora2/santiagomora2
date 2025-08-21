@@ -7,7 +7,7 @@ B.S. in Data Science and Mathematics Engineering @ Tecnológico de Monterrey, Ca
   
 ### Areas of expertise
 
-- **Data Science, Machine Learning, Artificial Intelligence, Statistical Analysis.**
+- Data Science, Machine Learning, Artificial Intelligence, Statistical Analysis.
 
 ### Skills
 
