@@ -12,14 +12,8 @@ I am driven by a desire to apply my expertise in Machine Learning, Artificial In
 
 - Data Science, Machine Learning, Artificial Intelligence, Statistical Analysis.
 
--->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
-
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
-
-<!--
+[![My Skills](https://skillicons.dev/icons?i=py,r,pytorch,sklearn,tensorflow,vscode,anaconda,fastapi,github,&theme=light)](https://skillicons.dev)
 
 - Experienced in R, Python, Pandas, Matplotlib, Pytorch, Tensorflow, Keras, SciKit-Learn, Seaborn, Numpy, SciPy, Streamlit.
 
