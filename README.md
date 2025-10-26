@@ -22,6 +22,7 @@ B.S. in Data Science and Mathematics Engineering @ Tecnológico de Monterrey, Ca
 ### Experience 💻
 
 - Data Science and AI specialist at Jatenx. [2024-Present]
+- Data Science and Engineering Intern at Here Technologies [2025]
 - Research intern at Université du Québec à Montréal. [2025]
 
 ---
