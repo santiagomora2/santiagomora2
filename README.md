@@ -11,7 +11,7 @@ B.S. in Data Science and Mathematics Engineering @ Tecnológico de Monterrey, Ca
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,pytorch,sklearn,tensorflow,fastapi,vscode,anaconda,github,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,pytorch,sklearn,tensorflow,fastapi,vscode,anaconda,github,git,docker&theme=light)](https://skillicons.dev)
 
 ### Projects
 
