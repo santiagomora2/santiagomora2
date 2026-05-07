@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Santiago Mora
-AI Engineer @ JateNX
-B.S. in Data Science and Mathematics Engineering @ Tecnológico de Monterrey, Campus Guadalajara.
+AI Engineer @ JateNX.
+
+B.S. in Data Science and Math Engineering @ Tecnológico de Monterrey, Campus Guadalajara.
 
 ---
   
