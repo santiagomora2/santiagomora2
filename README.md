@@ -1,4 +1,4 @@
-### gdl, mx. -- 22 -- math -- ml -- ai   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=gdl%2C+mx.+--+22+--+math+--+ml+--+ai)](https://git.io/typing-svg) 
 
 <img src="source.gif" width="80" height="80" alt="HK"> 
 
