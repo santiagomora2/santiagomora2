@@ -1,6 +1,6 @@
-<img src="200.gif" width="80" height="80" alt="HK"> 
+### gdl, mx. -- 22 -- math -- ml -- ai   
 
-### gdl, mx. -- 22 -- math -- ml -- ai    
+<img src="source.gif" width="80" height="80" alt="HK"> 
 
 ```bash
 $ whoami
