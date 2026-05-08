@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=6DAC76&width=435&lines=gdl%2C+mx.+--22+--math+--ml+--ai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=6DAC76&width=435&lines=gdl%2C+mx.+--math+--ml+--ai)](https://git.io/typing-svg)
 
 <img src="source.gif" width="80" height="80" alt="HK"> 
 
