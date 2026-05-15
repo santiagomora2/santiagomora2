@@ -25,6 +25,8 @@ class AIEngineer:
 me = AIEngineer()
 ```
 
+#### 🔗 My website: [santiagomora2](https://santiagomora2.github.io)
+
 #### 🔗 Connect: [linkedin](https://www.linkedin.com/in/santiago-mora-28a1732b4), [mail](mailto:sant.mora.11@gmail.com)
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,pytorch,sklearn,tensorflow,fastapi,aws,docker,vscode,anaconda,github,git&theme=light)](https://skillicons.dev)
